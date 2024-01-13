@@ -10,5 +10,5 @@
 
 脚本执行命令:sh nkstart.sh
 
-使用的项目:https://github.com/PetteriM1/NukkitPetteriM1Editionp
+使用的项目:https://github.com/PetteriM1/NukkitPetteriM1Edition
 
