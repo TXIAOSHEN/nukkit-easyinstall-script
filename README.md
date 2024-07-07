@@ -11,6 +11,6 @@ apt install git
 
 脚本执行命令:
 ```bash
-sh nkstart.sh
+sh nkstart.sh```
 
 使用的项目:https://github.com/CloudburstMC/Nukkit
