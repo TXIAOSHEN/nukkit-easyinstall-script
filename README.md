@@ -7,6 +7,7 @@
 3.使用请先克隆本项目，若提示bash:git:command not found，则执行
 ```bash
 apt install git
+
 然后再重新克隆
 
 脚本执行命令:
