@@ -5,7 +5,7 @@
 用前必读:1.本脚本目前只支持debian系linux，后续可能会更新
 2.下载命令 
 ```bash
-curl -sL https://github.com/TXIAOSHEN/nukkit-easyinstall-script/raw/main/debian_nkinstall.sh
+bash -c (curl -sL https://github.com/TXIAOSHEN/nukkit-easyinstall-script/raw/main/debian_nkinstall.sh)
 ```
 
 脚本执行命令:
