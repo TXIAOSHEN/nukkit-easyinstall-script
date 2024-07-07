@@ -10,7 +10,7 @@ curl -sL
 
 脚本执行命令:
 ```bash
-cd /no & sh nkstart.sh
+cd /nk & sh nkstart.sh
 ```
 
 使用的项目:https://github.com/CloudburstMC/Nukkit
