@@ -1,5 +1,5 @@
-apt update -y && apt upgrade
-apt install openjdk-17-jre wget
+apt update -y && apt upgrade -y
+apt install openjdk-17-jre wget -y
 mkdir /nk
 cd /nk
 wget https://ci.opencollab.dev//job/NukkitX/job/Nukkit/job/master/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar
