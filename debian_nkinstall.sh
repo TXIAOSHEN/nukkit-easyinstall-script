@@ -1,3 +1,4 @@
+#!/bin/sh
 apt update -y && apt upgrade -y
 apt install openjdk-17-jre wget -y
 mkdir /nk
