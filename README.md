@@ -4,10 +4,11 @@
 
 用前必读:1.本脚本目前只支持debian系linux，后续可能会更新
 
-2.debian安装命令
+2.debian系发行版脚本安装命令:
 ```bash
 bash <(curl -sSL https://github.com/TXIAOSHEN/nukkit-easyinstall-script/raw/main/debian_nkinstall.sh)
 ```
+arch系发行版脚本安装命令:
 ```bash
 bash <(curl -sSL https://github.com/TXIAOSHEN/nukkit-easyinstall-script/raw/main/arch_nkinstall.sh)
 ```
