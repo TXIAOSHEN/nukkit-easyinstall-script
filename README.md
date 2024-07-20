@@ -16,5 +16,9 @@ bash <(curl -sSL https://github.com/TXIAOSHEN/nukkit-easyinstall-script/raw/main
 ```bash
 cd /nk & sh nkstart.sh
 ```
+更新命令:
+```bash
+bash <(curl -sSL https://github.com/TXIAOSHEN/nukkit-easyinstall-script/raw/main/update.sh)
+```
 
 使用的项目:https://github.com/CloudburstMC/Nukkit
