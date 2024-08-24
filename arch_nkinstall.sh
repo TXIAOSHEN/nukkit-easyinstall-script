@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 pacman -Syu
 pacman -S jdk17-openjdk wget
 mkdir /nk
